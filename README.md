@@ -6,4 +6,5 @@
    ### https://blog.mojijs.com ###
    ### http://zhouweicsu.github.io/blog ###
    ### https://cnodejs.org/user/i5ting ###
+   ### http://yujiangshui.com/javascript-inheritance ###
     
